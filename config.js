@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "923444844060"
+const ownervb = process.env.OWNERS || "923015326254"
 
 
 const ownerlist = ownervb.split(';');
@@ -24,9 +24,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //global.pairingNumber = "92xxx_number" //put your bot number here
 global.botNumber = '923051391007' //put your bot number here
 
-global.mods = ['923444844060', '923051391007']
-global.prems = ['923444844060', '923051391007']
-global.allowed = ['923444844060', '923051391007']
+global.mods = ['923015326254', '923015326254']
+global.prems = ['923015326254', '923015326254']
+global.allowed = ['923015326254', '923015326254']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -43,7 +43,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'https://youtube.com/@aftab_0_khan?si=J0kmC6SRuOBirMDL'
 
 
 global.APIs = {
@@ -75,16 +75,16 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'GLOBAL-MD'
-global.author = 'GlobalTechInfo'
-global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
+global.packname = 'AFTAB-OFFICIAL'
+global.author = 'AFTAB-OFFICIAL'
+global.menuvid = 'https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
-global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
-global.fgsc = 'https://github.com/GlobalTechInfo/ULTRA-MD'
-global.fgyt = 'https://youtube.com/@GlobalTechInfo'
-global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
-global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
-global.thumb = fs.readFileSync('./assets/qasim.jpg')
+global.dygp = 'https://youtube.com/@aftab_0_khan?si=J0kmC6SRuOBirMDL'
+global.fgsc = 'https://youtube.com/@aftab_0_khan?si=J0kmC6SRuOBirMDL'
+global.fgyt = 'https://youtube.com/@aftab_0_khan?si=J0kmC6SRuOBirMDL'
+global.fgpyp = 'https://youtube.com/@aftab_0_khan?si=J0kmC6SRuOBirMDL'
+global.fglog = 'https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg'
+global.thumb = 'https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg'
 
 global.wait = '⏳'
 global.rwait = '⏳'

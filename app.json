@@ -1,5 +1,5 @@
 {
-  "name": "ULTRA MD",
+  "name": "Aftab Khan",
   "description": " Whatsapp bot made by GlobalTechInfo.",
   "keywords": [
     "whatsapp"
@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "923444844060"
+      "value": "923015326254"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
